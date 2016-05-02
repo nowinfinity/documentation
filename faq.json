@@ -1,16 +1,16 @@
 [
     {
-        "tite":"Create a Document",
+        "title":"Create a Document",
         "href":"https://raw.githubusercontent.com/nowinfinity/documentation/master/faq/create-a-document.md"
         
     },
     {
-        "tite":"Completed Documents",
+        "title":"Completed Documents",
         "href":"https://raw.githubusercontent.com/nowinfinity/documentation/master/faq/completed-documents.md"
         
     },
     {
-        "tite":"Saved Documents",
+        "title":"Saved Documents",
         "href":"https://raw.githubusercontent.com/nowinfinity/documentation/master/faq/saved-documents.md"
         
     }
