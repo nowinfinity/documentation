@@ -9,3 +9,6 @@
 7. Choose master branch
 8. Choose article to edit
 9. Save
+
+# Markdown Guide
+http://support.ghost.org/markdown-guide/
