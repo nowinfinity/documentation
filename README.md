@@ -12,6 +12,10 @@
   ```
   ![](https://i.gyazo.com/022fea04d98171129162e1626bced625.png)
   ```
+# Markdown editors
+0. Default GitHub MarkDown editor - online
+1. [StackEdit](https://stackedit.io/editor) - online
+2. [Typora](https://www.typora.io/#windows) - desktop
 
 # Markdown Guide
 http://support.ghost.org/markdown-guide/
