@@ -1,17 +1,19 @@
 [
     {
         "title":"Create a Document",
-        "href":"https://raw.githubusercontent.com/nowinfinity/documentation/master/faq/create-a-document.md"
+        "href":"https://raw.githubusercontent.com/nowinfinity/documentation/master/faq/create-a-document.md",
+        "slug": "create-a-document"
         
     },
     {
         "title":"Completed Documents",
-        "href":"https://raw.githubusercontent.com/nowinfinity/documentation/master/faq/completed-documents.md"
-        
+        "href":"https://raw.githubusercontent.com/nowinfinity/documentation/master/faq/completed-documents.md",
+        "slug": "completed-documents"
     },
     {
         "title":"Saved Documents",
-        "href":"https://raw.githubusercontent.com/nowinfinity/documentation/master/faq/saved-documents.md"
+        "href":"https://raw.githubusercontent.com/nowinfinity/documentation/master/faq/saved-documents.md",
+        "slug": "saved-documents"
         
     }
 ]
