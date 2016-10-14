@@ -1,25 +1,25 @@
 # Release 13.10.2016
 New features / Options / Changes:
 
-* New ‘Reminders’ tab has been added in the CM Settings settings this is where you can customize the sending of reminders. You can also include a pdf Payslip to each individual reminder (this option was previously available for select clients, now it is available for all clients)
-* The options for the Docusign notifications ‘Send signing notifications to:’ have been renamed to the following:
-* Manager - Sender
-* Manager & Signatory - Sender & Recipient
-* SIGNATORIES - Recipients
-* NOBODY - Do not send
+New ‘Reminders’ tab has been added in the CM Settings settings this is where you can customize the sending of reminders. You can also include a pdf Payslip to each individual reminder (this option was previously available for select clients, now it is available for all clients)
+The options for the Docusign notifications ‘Send signing notifications to:’ have been renamed to the following:
+Manager - Sender
+Manager & Signatory - Sender & Recipient
+SIGNATORIES - Recipients
+NOBODY - Do not send
 
 Company profile: 
-* the number of shares issued is shown only once for the joint Shareholders in the ‘Shareholder’s Information’ section
-* The ‘ASIC settings’ section has been re-named to ‘CM settings’
-* Register of officers is added in the documentation for B1, B2 or B12 forms
-* Generating the ‘Consent to Act’ as a separate file in the documentation for B2 form
-* Help text above the Reminders table is changed: default Nowinfinity email is shown if no custom email address is added and  the custom email address is shown when it is added.
+the number of shares issued is shown only once for the joint Shareholders in the ‘Shareholder’s Information’ section
+The ‘ASIC settings’ section has been re-named to ‘CM settings’
+Register of officers is added in the documentation for B1, B2 or B12 forms
+Generating the ‘Consent to Act’ as a separate file in the documentation for B2 form
+Help text above the Reminders table is changed: default Nowinfinity email is shown if no custom email address is added and  the custom email address is shown when it is added.
 
-Bug fix:
-* Form 484-A1: Lodges straightaway once forms 361 and 362 are lodged
-* Form 484-A1: Default Nowinifnity template is applied for emails when re-sending documents for signing
-* Form 484-A1: Joint shareholders. Only the first shareholder changes the address when documents are lodged with ASIC
-* Shares view & Allotments. Only first of the joint shareholders is shown
-* Late fee pop-ups will appear on the 29th day
-* Portal settings. Setup users. Can't update user's details
-* The "+" is not allowed in company names
+* Bug fix:
+  * Form 484-A1: Lodges straightaway once forms 361 and 362 are lodged
+  * Form 484-A1: Default Nowinifnity template is applied for emails when re-sending documents for signing
+  * Form 484-A1: Joint shareholders. Only the first shareholder changes the address when documents are lodged with ASIC
+  * Shares view & Allotments. Only first of the joint shareholders is shown
+  * Late fee pop-ups will appear on the 29th day
+  * Portal settings. Setup users. Can't update user's details
+  * The "+" is not allowed in company names
