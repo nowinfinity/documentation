@@ -1,7 +1,7 @@
 # Release 13.10.2016
 New features / Options / Changes:
 
-*New ‘Reminders’ tab has been added in the CM Settings settings this is where you can customize the sending of reminders. You can also include a pdf Payslip to each individual reminder (this option was previously available for select clients, now it is available for all clients)
+*Item 1 New ‘Reminders’ tab has been added in the CM Settings settings this is where you can customize the sending of reminders. You can also include a pdf Payslip to each individual reminder (this option was previously available for select clients, now it is available for all clients)
 *The options for the Docusign notifications ‘Send signing notifications to:’ have been renamed to the following:
 *Manager - Sender
 *Manager & Signatory - Sender & Recipient
