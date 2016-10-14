@@ -2,11 +2,11 @@
 New features / Options / Changes:
 
 *Item 1 New ‘Reminders’ tab has been added in the CM Settings settings this is where you can customize the sending of reminders. You can also include a pdf Payslip to each individual reminder (this option was previously available for select clients, now it is available for all clients)
-*The options for the Docusign notifications ‘Send signing notifications to:’ have been renamed to the following:
-*Manager - Sender
-*Manager & Signatory - Sender & Recipient
-*SIGNATORIES - Recipients
-*NOBODY - Do not send
+*Item 2 The options for the Docusign notifications ‘Send signing notifications to:’ have been renamed to the following:
+*Item 2a Manager - Sender
+*Item 2b Manager & Signatory - Sender & Recipient
+*Item 2c SIGNATORIES - Recipients
+*Item 2e NOBODY - Do not send
 
 Company profile: 
 *the number of shares issued is shown only once for the joint Shareholders in the ‘Shareholder’s Information’ section
