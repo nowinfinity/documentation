@@ -1,5 +1,5 @@
 # Release 13.10.2016
-__**New features / options / changes:**__
+**New features / options / changes:**
    * Credit cards. Expiry date is extended to 2025
    * Email notifications are removed when download file from serveredit
    * CM settings. Reminders. Mask is removed from the 'ENTER REMINDER DAYS' field
@@ -11,7 +11,7 @@ __**New features / options / changes:**__
    * Companies. Fees to pay ASAP. ‘Annual review’ column is replaced with ‘Due date’ which will be 2 months after the annual review but this year
    * Generating the ‘Consent to Act’ as a separate file in the documentation for 484-B12 and 484-E forms
    
-*__Bug fix:__*
+**Bug fix:**
    * Bundle edit. Constant loading on documents generating
    * CM settings. Options. Check-boxes state doesn't save after page refresh
    * Portal settings. Preferences. Custom email can be saved without verification
