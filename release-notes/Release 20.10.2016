@@ -1,40 +1,40 @@
-# c
-**__New features / options / changes:__**
-* Credit cards. Expiry date is extended to 2025
-* Email notifications are removed when download file from serveredit
-* CM settings. Reminders. Mask is removed from the 'ENTER REMINDER DAYS' field
-Hard copy. "*(Invoice)*" files are removed from the hard copy email before sending
-Slight redesign of Annual Statements tab (new Annual statements panel)
-Company profile document is updated, design is changed
-Company profile. Export. 'Send by email' section is temporary hidden
-Payslip template ACN in front of the number is added in subtitle
-Companies. Fees to pay ASAP. ‘Annual review’ column is replaced with ‘Due date’ which will be 2 months after the annual review but this year
-Generating the ‘Consent to Act’ as a separate file in the documentation for 484-B12 and 484-E forms
+# 20.10.2016
+__** New features / options / changes: **__
+   * Credit cards. Expiry date is extended to 2025
+   * Email notifications are removed when download file from serveredit
+   * CM settings. Reminders. Mask is removed from the 'ENTER REMINDER DAYS' field
+   * Hard copy. "*(Invoice)*" files are removed from the hard copy email before sending
+   * Slight redesign of Annual Statements tab (new Annual statements panel)
+   * Company profile document is updated, design is changed
+   * Company profile. Export. 'Send by email' section is temporary hidden
+   * Payslip template ACN in front of the number is added in subtitle
+   * Companies. Fees to pay ASAP. ‘Annual review’ column is replaced with ‘Due date’ which will be 2 months after the annual review but this year
+   * Generating the ‘Consent to Act’ as a separate file in the documentation for 484-B12 and 484-E forms
 
-Bug fix:
-Bundle edit. Constant loading on documents generating
-CM settings. Options. Check-boxes state doesn't save after page refresh
-Portal settings. Preferences. Custom email can be saved without verification
-Can't send AS when director has 2 separate roles in the company (was actual for CLOUDGARD NO 32 PTY LTD company)
-AS sending - phone number isn't saved
-Standard company. Minutes. ATF is duplicated (issues from Shane)
-Collaboration. Hard copy. Attaching extra documents doesn't work
-Collaboration. Hard copy. Error when click on 'Send' (Client: Lee & Lee Accountants)
-Standard company. Consent to act. Excess comma if city of birth wasn't specified for officer
-Payslip isn’t included in the automatic reminders
-Inbox. Annual statement. Error when download .eml without entering email
-Companies. Company profile. Error when download Share registry for the first company
-Form 484-B12. Authorisation and Declaration. New appointed officers duplicate in the ‘Resolution by specific directors’ drop-down
-Lodgements. Lodged/Completed. 'Lodged selected' button available on the tab
-Companies. Preview company profile. Officer with 'Secretary' role is not shown
-Lodgements. Incomplete. Different colours for 'Draft' status
-Payment. Credit card. Can't input 4-digit CVV2 for amex
-Standard company. Collaboration. Create a trust. Data in the trust form are not pre-filled
-Late fees pop-up appears on 28 day
-Form 484-A1 lodges straightaway once form 361 / 362 is lodged (Dessa, please let me know if this still actual)
-Form 484-C3. Crash when company name contains ' '' '
-Company profile. Share registry. Incorrect name and extension of the file (was .docx and now it is .pdf)
-Company profile. Recent documents. Highlight the document name as a link
-RA01. Address. PO Box isn't valid
-Form 404. Error on complete
-Blank page after solvency resolution (issue from Roxane)
+__** Bug fix: **__
+   * Bundle edit. Constant loading on documents generating
+   * CM settings. Options. Check-boxes state doesn't save after page refresh
+   * Portal settings. Preferences. Custom email can be saved without verification
+   * Can't send AS when director has 2 separate roles in the company (was actual for CLOUDGARD NO 32 PTY LTD company)
+   * AS sending - phone number isn't saved
+   * Standard company. Minutes. ATF is duplicated (issues from Shane)
+   * Collaboration. Hard copy. Attaching extra documents doesn't work
+   * Collaboration. Hard copy. Error when click on 'Send' (Client: Lee & Lee Accountants)
+   * Standard company. Consent to act. Excess comma if city of birth wasn't specified for officer
+   * Payslip isn’t included in the automatic reminders
+   * Inbox. Annual statement. Error when download .eml without entering email
+   * Companies. Company profile. Error when download Share registry for the first company
+   * Form 484-B12. Authorisation and Declaration. New appointed officers duplicate in the ‘Resolution by specific directors’ drop-down
+   * Lodgements. Lodged/Completed. 'Lodged selected' button available on the tab
+   * Companies. Preview company profile. Officer with 'Secretary' role is not shown
+   * Lodgements. Incomplete. Different colours for 'Draft' status
+   * Payment. Credit card. Can't input 4-digit CVV2 for amex
+   * Standard company. Collaboration. Create a trust. Data in the trust form are not pre-filled
+   * Late fees pop-up appears on 28 day
+   * Form 484-A1 lodges straightaway once form 361 / 362 is lodged (Dessa, please let me know if this still actual)
+   * Form 484-C3. Crash when company name contains ' '' '
+   * Company profile. Share registry. Incorrect name and extension of the file (was .docx and now it is .pdf)
+   * Company profile. Recent documents. Highlight the document name as a link
+   * RA01. Address. PO Box isn't valid
+   * Form 404. Error on complete
+   * Blank page after solvency resolution (issue from Roxane)
