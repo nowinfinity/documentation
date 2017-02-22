@@ -1,6 +1,6 @@
 # Release 17.02.2017
 - ‘Do Something’ button is added for all pages with data available to be selected and exported
-- ‘Add XERO Organisation’  is added on the Collaboration page of the Standard Company document.
+- ‘Add XERO Organisation’  is added on the Collaboration page of the Standard Company document
 - ‘Copy all email to’ field is added in the AWS Email settings tab on the Portal settings page
 - Reminders notes are added on the Reminders page
 - Lodgement deadline displaying is added on the Collaboration page of the ASIC documents that may have Late fees
