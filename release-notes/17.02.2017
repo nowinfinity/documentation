@@ -1,9 +1,9 @@
 # Release 17.02.2017
-- ‘Do Something’ button is added for all pages with data available to be selected and exported
-- ‘Add XERO Organisation’  is added on the Collaboration page of the Standard Company document
-- ‘Copy all email to’ field is added in the AWS Email settings tab on the Portal settings page
+- ‘Do Something’ button has been added for all pages which have information available to be selected and downloaded such as 'Completed Documents' and 'Corporate Messenger'
+- ‘Add XERO Organisation’ has been added on the Collaboration page of the Standard Company document
+- ‘Copy all email to’ field has been added in the AWS Email settings tab on the Portal settings page. To find these settings go to Menu > Portal Settings > Email Settings > select AWS from drop dowm menu.
 - Reminders notes are added on the Reminders page
-- Lodgement deadline displaying is added on the Collaboration page of the ASIC documents that may have Late fees
-- New documents are added on the ‘Create document’ page:
+- Lodgement deadline display has been added onto the Collaboration page for any ASIC documents that may have Late fees 
+- NEW DOCUMENTS! 
   - NSW Land Tax Unit Trust
   - Reg 13.22C Unit Trust
