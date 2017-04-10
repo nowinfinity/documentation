@@ -1,6 +1,6 @@
 #Release notes 10.04.2017:
 - The 'invoice number' and 'Xero number' have been added to the invoices page
-- A NEW CGT Transitional Provisions Election form has been added to the invoices page
+- A NEW CGT Transitional Provisions Election form has been added to the SMSF section
 - Bundle Signing Update: Email and phone number fields are now prefilled when sending documents for bundle signing via Docusign
 - Bundle Signing Update: Grouping by the signatory name has now been added. There is no need to input the same email for one person on each seperate document
 - SoA Establishment is now available
