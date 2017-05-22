@@ -2,10 +2,5 @@
 -	DocuSign: A new setting ‘Use Access code for signing documents’ has been added for anyone with a personal Docusign account and who would like a higher level of security. 
 When this setting is enabled, the signatories receiving the documents for signing will be prompted to enter in an access code. The user will have 3 attempts to input this code or can click ‘I don’t have a code’ which will close the signing. 
 To enable this setting please go to Portal Settings > Docusign > Enable Access Code. You will then need to provide the client with the code via phone or text. 
-- Portal Settings: Users can now set a default date range for all display tables (i.e. Corporate Messenger Lodgements). This is handy for customisation of your data and display, if you are used to a certain date range. 
-- Portal Settings: There is now an option to add in your company’s website into your portal settings under Portal Settings > Account Settings. 
-- Documents: Number of shareholders you can add to the form 484-c3/ 484E forms has been extended to 20.
+- Portal Settings: Users can now set a default date range and default nuber of entries per one page for all display tables (i.e. Corporate Messenger Lodgements). This is handy for customisation of your data and display, if you are used to a certain date range. 
 - Automatic 480F: Now, every day at 7PM the platform will automatically merge Annual Statement for any statements which are in the ‘Not Received’ status. 
-- Daily Summary Additions:
-a.	Deregistered company’s status
-- A notification will now pop up if a user tried to lodge a form with a lodgement deadline in the past. To proceed, you will need to tick a check box stating ‘I realise lodging this form will incur a late fee and only after this document will be submitted to ASIC’. This is for standard company, 484e, 484b12, 484b2 
