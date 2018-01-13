@@ -1,5 +1,5 @@
 
-## Connecting your bot to Skype for Business Online
+## Connecting Nowinfinity Assistant to your Skype for Business Online
 <p align="center">
   <img align="bottom" alt="Nowinfinity Assistant" width="300" src="https://assistant.leo.nowinfinity.com.au/content/png_tr.png">
 </p>
