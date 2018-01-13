@@ -1,9 +1,9 @@
 
 ## Connecting Nowinfinity Assistant to your Skype for Business Online
 <p align="center">
-  <img align="center" alt="Nowinfinity Assistant" width="180" src="https://assistant.leo.nowinfinity.com.au/content/png_tr.png">
+  <img align="middle" alt="Nowinfinity Assistant" width="180" src="https://assistant.leo.nowinfinity.com.au/content/png_tr.png">
   <span style="color:#fff; font-family: 'Bebas Neue'; font-size: 4em;" class="arrows">⇄</span>
-  <img align="center" width="125" src="https://dev.botframework.com/ChannelConfigs/Images/skypeforbusiness/icon.png" alt="Skype for Business">
+  <img align="middle" width="125" src="https://dev.botframework.com/ChannelConfigs/Images/skypeforbusiness/icon.png" alt="Skype for Business">
 </p>
 To add bot to Skype for Business, you must be the Tenant Administrator of a Skype for Business Online environment. Complete the following steps to add a bot:
 
