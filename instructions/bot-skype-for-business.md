@@ -11,7 +11,7 @@ To add bot to Skype for Business, you must be the Tenant Administrator of a Skyp
 Import-PSSession (New-CsOnlineSession -Credential (Get-Credential))
 ```
 - You will be prompted with windows PowerShell credential dialog box. Sign in using the tenant admin credentials.
-- Run the following PowerShell cmdlet
+- Run the following PowerShell command
 ```ps
  New-CsOnlineApplicationEndpoint -ApplicationID 62516114-227c-436c-8e55-e7dcf50e7474 -Name "Rosie - Nowinfinity Assistant" -Uri sip:<ni.assistant.bot@yourdomain.com>
 ```
