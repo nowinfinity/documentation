@@ -5,7 +5,7 @@
 </p>
 To add bot to Skype for Business, you must be the Tenant Administrator of a Skype for Business Online environment. Complete the following steps to add a bot:
 
-- [Download and install the Skype for Business Online Connector module](Download%20and%20install%20the%20Skype%20for%20Business%20Online%20Connector%20module)
+- [Download and install the Skype for Business Online Connector module](http://go.microsoft.com/fwlink/?LinkId=294688)
 - Open Windows PowerShell as Administrator and run the following:
 ```powershell
 Import-PSSession (New-CsOnlineSession -Credential (Get-Credential))
