@@ -19,4 +19,5 @@ Import-PSSession (New-CsOnlineSession -Credential (Get-Credential))
 
 NOTE: A newly registered bot can take up to 8 hours to be discoverable by all users in the Skype for Business tenant. More details on using PowerShell to manage bots and apps for Skype for Business can be found [here](https://msdn.microsoft.com/en-us/skype/trusted-application-api/docs/trustedapplicationendpoint)
 ***
-[](Resources: https://skypeappregistration.azurewebsites.net/bot/62516114-227c-436c-8e55-e7dcf50e7474 , https://msdn.microsoft.com/en-us/skype/Skype-For-Business-Bot-Framework/docs/overview)
+[//]: # (Resources: https://skypeappregistration.azurewebsites.net/bot/62516114-227c-436c-8e55-e7dcf50e7474 , https://msdn.microsoft.com/en-us/skype/Skype-For-Business-Bot-Framework/docs/overview)
+
