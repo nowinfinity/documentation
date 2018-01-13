@@ -17,7 +17,7 @@ To add bot to Skype for Business, you must be the Tenant Administrator of a Skyp
     ```powershell
     New-CsOnlineApplicationEndpoint -ApplicationID 62516114-227c-436c-8e55-e7dcf50e7474 -Name "Rosie - Nowinfinity Assistant" -Uri sip:ni_assistant.bot@yourdomain.com
     ```
->This command registers an instance of our bot with a Skype for Business Online tenant. A Skype for Business Admin can replace the **_Uri_** parameter with a unique user account from their domain (eg. ni_assistant.bot@contoso.com)
+    >This command registers an instance of our bot with a Skype for Business Online tenant. A Skype for Business Admin can replace the **_Uri_** parameter with a unique user account from their domain (eg. ni_assistant.bot@contoso.com)
 
 _NOTE_: A newly registered bot can take up to 8 hours to be discoverable by all users in the Skype for Business tenant.
 ***
