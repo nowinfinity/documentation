@@ -5,14 +5,14 @@
 </p>
 To add bot to Skype for Business, you must be the Tenant Administrator of a Skype for Business Online environment. Complete the following steps to add a bot:
 
-* [Download and install the Skype for Business Online Connector module](http://go.microsoft.com/fwlink/?LinkId=294688)
-* Open Windows PowerShell as Administrator and run the following:     
+1\. [Download and install the Skype for Business Online Connector module](http://go.microsoft.com/fwlink/?LinkId=294688)
+2\. Open Windows PowerShell as Administrator and run the following:     
     
 ```powershell
 Import-PSSession (New-CsOnlineSession -Credential (Get-Credential))
 ```
-* You will be prompted with windows PowerShell credential dialog box. Sign in using the tenant admin credentials.
-* Run the following PowerShell command:
+3\. You will be prompted with windows PowerShell credential dialog box. Sign in using the tenant admin credentials.
+4\. Run the following PowerShell command:
     
 ```powershell
 New-CsOnlineApplicationEndpoint -ApplicationID 62516114-227c-436c-8e55-e7dcf50e7474 -Name "Rosie - Nowinfinity Assistant" -Uri sip:ni_assistant.bot@yourdomain.com
