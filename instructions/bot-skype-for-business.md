@@ -9,7 +9,8 @@ To add bot in Skype follow [link](https://join.skype.com/bot/62516114-227c-436c-
    
 
 ## Basic commands
-* Company profile
+* Company profile 
+>show company profile card.
 ```
 company profile [company name]
 ```
@@ -67,3 +68,5 @@ help
 ### Slack
 
 ### Skype
+
+
