@@ -18,6 +18,7 @@ company profile [company name]
 ```
 directors of [company name]
 ```
+![](https://i.gyazo.com/b9691a7368aaa94aab3a139ff09c62cd.png)
 * Shareholders list
 ```
 shareholders of [company name]
@@ -56,6 +57,7 @@ appoint agent for [company name]
 ```
 companies with debts
 ```
+![](https://i.gyazo.com/9fb749940263d86caaa9a6714cb7ea98.png)
 * Burning lodgements list
 ```
 burning lodgements
