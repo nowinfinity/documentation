@@ -70,7 +70,7 @@ help
 ```
 ## Notifications
 - Lodged/rejected from ASIC
-![](https://i.gyazo.com/6614590ad09faf1058c0aeb4f9378dee.png)
+![](https://i.gyazo.com/44893fd1cd8cf134e0e92f747ecac564.png)
 - Docs signed
 - New Annual Statement arrived
 - Company profile changes detected
