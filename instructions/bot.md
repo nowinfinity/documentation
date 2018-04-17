@@ -74,8 +74,8 @@ help
 - Docs signed
 - New Annual Statement arrived
 - Company profile changes detected
-- New Company added to list (Agent appointed)
-- Company removed from list (Agent ceased)
+- New Company added to list (Agent appointed) / Company removed from list (Agent ceased)
+![](https://i.gyazo.com/b5975acf95187b7bde55a030ba168bd4.png)
 - New ASIC invoice arrived
 ![](https://i.gyazo.com/d1ab39fd61fdb218f48b33535284424a.png)
 ## Video tutorial
