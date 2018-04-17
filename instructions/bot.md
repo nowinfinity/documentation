@@ -47,6 +47,7 @@ appoint new officer for [company name]
 * Change Officer/Member Name
 
 * Change Officer/Member Address
+![](https://i.gyazo.com/5f328552dba75fa5ed681f7f57328a91.png)
 
 * Appoint/Cease existing Officer role
 
