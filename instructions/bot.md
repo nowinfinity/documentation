@@ -10,10 +10,10 @@ To add bot in Skype follow [link](https://join.skype.com/bot/62516114-227c-436c-
 
 ## Basic commands
 * Company profile 
->show company profile card.
 ```
 company profile [company name]
 ```
+![](https://i.gyazo.com/87998d8842d8f92a3e8e7e7008fca546.png)
 * Directors list
 ```
 directors of [company name]
