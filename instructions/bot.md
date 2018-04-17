@@ -23,6 +23,7 @@ directors of [company name]
 ```
 shareholders of [company name]
 ```
+![](https://i.gyazo.com/ddc1db5c179c0b1ea2cc1b3cf4ca837a.png)
 * Change Company Address
 ```
 change address for [company name]
