@@ -72,7 +72,7 @@ help
 - New Company added to list (Agent appointed)
 - Company removed from list (Agent ceased)
 - New ASIC invoice arrived
-
+![](https://i.gyazo.com/d1ab39fd61fdb218f48b33535284424a.png)
 ## Video tutorial
 ### Slack
 
