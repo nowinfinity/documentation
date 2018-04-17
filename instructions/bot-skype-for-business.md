@@ -64,6 +64,15 @@ burning lodgements
 ```
 help
 ```
+## Notifications
+- Lodged/rejected from ASIC
+- Docs signed
+- New Annual Statement arrived
+- Company profile changes detected
+- New Company added to list (Agent appointed)
+- Company removed from list (Agent ceased)
+- New ASIC invoice arrived
+
 ## Video tutorial
 ### Slack
 
