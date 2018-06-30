@@ -3,4 +3,4 @@
 
 2.	**Setting up your CRM account:** In portal settings you can now link your CRM account if you use Salesforce or SugarCRM. Simply head to Menu > Portal Settings > Cloud Services and CRM > select which CRM account you would like and enter in your login details. This will then allow you to access stored client data when you are creating documents. 
 
-3. **Text Messages:** You can now customise your sender ID for text messages. Simply navigate to Menu > Portal Settings > Text Messages and under Sender ID you can enter the phone number or name you would like your message to come come from. Be sure to click SAVE once you have edited this field. By default ‘corpservice’ will be the sender ID. 
+3. **Text Messages:** You can now customise your sender ID for text messages. Simply navigate to Menu > Portal Settings > Text Messages and under Sender ID you can enter the phone number or name you would like your message to come from. Be sure to click SAVE once you have edited this field. By default ‘corpservice’ will be the sender ID. 
