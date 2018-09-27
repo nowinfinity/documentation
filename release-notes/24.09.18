@@ -3,3 +3,9 @@
 2. **ASIC Calendar** There is a new section in your Main Menu which provides you with a visual reflection of lodgements and payment deadlines for ASIC documents and Annual Statements in a wonderful calendar display. You can then navigate to Annual Statements, Lodgements or Company Profiles from this calendar directly. 
 3. **ASIC Electronic Invoice Settings** You now have the ability to select who you would like to recieve the email notifications when an invoice is receieved from ASIC. To customise this head to MENU > ASIC SETTINGS > DOCUMENT SETTINGS
 4. **New Documents** Division 7a Drawdown Acknowledgement (can be found under the 'Loans' section in your document library).
+5. **Company Profile: Allotment Control** 
+- This new feature will allow you to edit the share structure of a company.
+-	Show you the options between ASIC stored shares for a company and those in NowInfinity. 
+-	Mismatched records in the Allotment Table and company share structure will be highlighted for your attention. 
+-	Editing the allotment table will be blocked if share changes are pending.
+
