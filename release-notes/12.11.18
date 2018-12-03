@@ -7,7 +7,7 @@ The Signing Contact must be the person has signing rights for the entity
 2. **Share Register for Individuals**
 In the Share View of a Company Profile, you can now generae a form which provides all information about the share structure of one specified shareholder. To access this go to Menu > Corporate Messenger > Company Profile > Share View and use the export function called 'Export Share Registry Per Member' 
 
-3. **Address Report**
+3. **Address Report - Early Adopters Only**
 This is a new search feature and can be used for collecting all entities in the NowInfinity platform which have the same address. For example, if you need to find (or make further changes) to an address of a director who is an officer in different companies. 
 This is version 1.0 and you can download this report as a pdf or xlsx file. 
 
