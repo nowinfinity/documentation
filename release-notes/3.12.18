@@ -1,0 +1,26 @@
+#Release notes 3 December 2018:
+1. **Address Report V2 - Early Adopters Only** 
+- Updating a company address will generate a 484-A1 form (The system will auto-select a director as a signatory) 
+- Updating a Trust address will update the Trust Profile and Timeline 
+- Changes to the 'Types of Address' column in the results grid now contains the description of the entity to which the address belongs (i.e. Principal Address or Unitholder Address)
+- Changes to the 'Name of Person/Company' column in the results grid now shows the name of individual or company name
+
+2. *Share Registry Export**
+There is now a report under your Company Profiles which allows you to export an excel version of the Allotments and Transaction details for a company.
+
+3. **Signing and Billing Contacts - Phone Number Update**
+The section where you enter a mobile number under your Client Contact is now optional. As this information is used for text reminders, you will see a system notification pop up to notify you of the importance of completing this information. To access this section go to Menu > Companies > Company Profile > Client Contact or Menu > Trusts > Trust Profile > Client Contact
+
+4. **Dividend Statement Template Amendments** 
+The following were removed from both Resolution and Minute documents; 
+- Notice of a meeting of the members 
+- The members of the company 
+- Members consent 
+- Signatures on each page with the title 'Dividend Statement' 
+
+5. **Changes to 484-B12 / 484E forms**
+Order of the tabs on the document form have changed. 'Appoint Company Officehholder' tab has now been placed before the 'Cease Company Officeholder' tab. This same order applies to generated documents. 
+
+6. **Trust Profile Update**
+Now you can edit the ACN for 'Archived' companies as well as the corresponding information.
+
