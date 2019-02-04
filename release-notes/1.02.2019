@@ -1,0 +1,24 @@
+#Release notes 1 Feb 2019:
+1. **Trust Imports** 
+There is now an option to import your trust information from MYOB, APS and BGL. Please email info@nowinfinity.com.au if you would like to commence this import.
+
+2. **Rejected lodgement notification update**
+If a lodgement is rejected, you will now receive a notification including the associated late fees. This is to ensure your team are aware of any possible fees related to an overdue lodgement. 
+
+3. **Trust Register Profile Export**
+There is now an option to ‘Export Unit Register to PDF’ on your Trust Profile. 
+
+4. **Importing Trusts from XPM (Xero Practice Manager)** 
+When importing your Trust information from XPM, the import will now include contact information for ‘signing’ and ‘billing’ contacts.
+
+5. **Importing Trusts from XPM (Xero Practice Manager)**
+When importing your Trust information from XPM, archived Trusts are now excluded from the import. 
+
+6. **New Form**
+A Consent Form will now be produced as part of the 484-C3 Form if a transfer was made to a new member. 
+
+7. **RA01 Update**
+The RA01 interview form and ASIC document have been updated to comply with new format. 
+
+8. **2 Factor Authentication (2FA) Update**
+NowInfinity will remember your 2FA details once entered for 30 days. Please note this is only on the same device. If you alternate to another device it may request your 2FA again.
