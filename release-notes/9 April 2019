@@ -1,0 +1,30 @@
+#Release notes 9 April 2019:
+1. **Knowledge Base added to main menu**
+Knowledge Base is a central electronic repository of articles and videos. This resource in an information hub which provides up-to-date answers about information on Corporate Messenger, Trust Register and helpful administrative information.
+
+2. **Create non-ASIC Shareholders**
+One can now manually add non-ASIC shareholders to Public companies via the allotments table.
+This feature enables the creation of a new shareholder, or by adding a shareholder to lost allotments. These options are now available for users with “FULL” access permissions.
+
+3. **New Payment Instruction*
+Due to specifics of ASIC protocols sometimes an invoice may not be delivered to NowInfinity’s software.  NowInfinity has developed a new automatic Payment Instruction that extracts and compares previous and current debt for active companies on the platform.
+The new Payment Instruction enables NowInfinity to report the difference for outstanding payments. This new option will calculate the debt difference owing to ASIC and administers an invoice that will reflect the new debt to the company. Members will be provided with a Payment Instruction notice to indicate that an “increase in debt” has been identified. The instruction will be sent to the company’s account manager.
+
+4. **NowInfinity Chat Widget** 
+
+The new NowInfinity Chat Widget provides the ability for members to either chat or send email messages to the NowInfinity support team. The NowInfinity Chat Widget automatically pre-fills your name into the chat window. You will also be provided with the top ‘help’ suggestions to direct you to common platform questions, or specific inquiries can be typed into the help menu. 
+
+5. **Annual Statement Reminders**
+When the Annual Statement Reminder notifications are set to the “Billing Contact”, the recipient of the reminders will now be visible below the tick box. 
+
+6. **Charts added to Unit Register page in Trust Register**
+Charts have now been added to the Trust Register. The charts are visible on the Share registry page.
+
+7.**Primary Beneficiaries for Trusts**
+Corporate Beneficiary can be added to Trusts as a Primary Beneficiary.
+
+8.**Add running Balance to Unit Trust export function**  
+When downloading the Unit Trust transaction report (PDF or excel), one can now see a running balance for the selected Trust/s as well as the running balance for the Unit Holders for that Trust.
+
+9 **Enhance the SMTP connection error message when SMTP settings are tested**
+When testing the SMTP connection via the Now Infinity platform and errors occur, the system will show more meaningful messages in the error popup. The error message will assist members to resolve the connection errors more affectively.
