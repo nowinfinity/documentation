@@ -1,0 +1,35 @@
+Release notes 09 April 2019:
+
+1. **Knowledge Base added to main menu* 
+Knowledge Base has been added to the main menu. Knowledge Base is a central electronic repository of articles and videos. 
+This resource in an information hub which provides up-to-date answers about information on Corporate Messenger, Trust Register and helpful Administration information.
+
+2. **Create non-ASIC Shareholders** 
+Users can now manually add non-ASIC shareholders to companies via the allotments table.
+This feature is actioned by creating a new shareholder or when lost allotments are imported into the share registry. 
+These options are now available for:
+-	Public Companies for all users with “FULL” access permissions AND
+-	Non-public companies to users with a role of SUPERUSER.
+
+3. **New Payment Instruction**
+Due to specifics of ASIC protocols sometimes an invoice may not be delivered to NowInfinity’s software.  NowInfinity has developed a new automatic Payment Instruction that extracts and compares previous and current debt for active companies on the platform.
+The new Payment Instruction enables NowInfinity to report the difference for outstanding payments. This new option will calculate the debt difference owing to ASIC and administers an invoice that will reflect the new debt to the company. Members will be provided with a Payment Instruction notice to indicate that an “increase in debt” has been identified. The instruction will be sent to the company’s account manager.
+
+4. ** NowInfinity Chat Widget**
+The new NowInfinity Chat Widget provides the ability for members to either chat or send email messages to the NowInfinity support team. The NowInfinity Chat Widget automatically pre-fills your name into the chat window. You will also be provided with the top ‘help’ suggestions to direct you to common platform questions, or specific inquiries can be typed into the help menu. 
+
+5. **Annual Statement Reminders**
+The new NowInfinity Chat Widget provides the ability for members to either chat or send email messages to the NowInfinity support team. The NowInfinity Chat Widget automatically pre-fills your name into the chat window. You will also be provided with the top ‘help’ suggestions to direct you to common platform questions, or specific inquiries can be typed into the help menu. 
+
+6 ** Charts added to Unit Register page in Trust Register**
+Charts have now been added and are visible in the Trust Register.
+
+7. **Users can add a Corporate Beneficiary to Trusts as Primary Beneficiary** 
+Previously the UI validation prevented users from saving the Trust profile when entering a Corp Beneficiary to Trusts (as primary beneficiary). 
+Users can now add a Corporate Beneficiary to Trusts as a Primary Beneficiary.
+
+8 **Add Unit Balance and Individual Until Holders to Unit Trust export function** 
+When downloading the Unit Trust transaction PDF or excel, you can now see a running balance for the selected Trust/s as well as the running balance for the Unit Holders for that Trust. 
+
+9. **Trust and Fund Profile Restrictions for Editing**
+Before you can make an update to your Trust or Fund profile, you are prompted to upload supporting documentation prepared outside of the platform. Documents uploaded via this process are stored on the entities timeline. 
