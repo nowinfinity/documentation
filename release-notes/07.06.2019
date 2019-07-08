@@ -1,1 +1,6 @@
 #Release notes 7 June 2019:
+1. **Updated default logic when sending Annual Statement reminders**
+The “Send to Billing contact” tick box will no longer be selected be default when sending Annual Statements
+
+2. **Changed validation rules for Contact Inforamtion details**
+Updated the validation rules in the contact information containers in Corporate Messenger, Trust Register and SuperComply so that the Preferred name and Postal address details are optional
