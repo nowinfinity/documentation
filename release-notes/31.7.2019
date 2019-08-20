@@ -45,7 +45,7 @@ The ability to convert trust types from Unit Trusts to Discretionary trusts (and
 When converting from Unit trust to Discretionary trust, unitholders are converted into primary beneficiaries. 
 
 When converting from Discretionary trust to Unit trust, beneficiaries are converted to unitholders with 1 Ordinary Unit.
- 
-**Company PINs for entities that have data synchronisation issues**
+
+**Automatic PINs for entities that have data synchronisation issues**
 
 The system will automatically add a Data Discrepancy PIN to companies that do not exist in external systems or when the company address is different in external systems.
