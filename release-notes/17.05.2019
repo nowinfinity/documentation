@@ -1,0 +1,39 @@
+**Bundle agent appointment** 
+
+Enables the import of Agent appointments from excel files. This Feature was available for early adopters before, but now it available to all accounts. 
+
+
+**Account primary contact defaulted with Admin permissions**
+
+When new customers sign up via the online registration process, the primary contact automatically becomes an Administrator.  
+
+**Company PINs available in Annual Statement Letter (e-Sign) email template**
+
+Added a new code ‘@CompanyPins’ to the 'Annual Statement Letter' email templates
+
+If the code is present in the email template, then all assigned for company pins will be shown in the email.
+
+**Account Manager details available in email templates**
+
+Added a new code ‘@AccountManager’ to email templates (both for e-sign and e-mail) that will allow the Account Manager’s name to appear in email notifications.
+
+**Document Type available in DocuSign email templates**
+
+Added a new code ‘@DocumentType’ in all Docusign email notification templates 
+
+
+**Include SMTP error code and the error description into error popup**
+
+When SMTP email settings are tested and the test fails, the system will now show a popup with the actual error code and technical description of the error. 
+ 
+**Allow apostrophes in XPM Import**
+
+When importing trusts from XPM, the logic will allow apostrophes to be imported and will not duplicate trust profiles as part of the import 
+
+**Enable issue and cancellation of shares for public companies**
+
+The feature to issue and cancel shares for public companies is enabled for all accounts.
+
+**Estate Planning (Beta)**
+
+Estate Planning is available for Beta testing. 
