@@ -1,0 +1,53 @@
+#Release notes 07 June 2019: 
+
+**Combine Minutes and resolution documents for Director cessation and appointments**
+
+Combine the Minutes and Memorandum of resolution for Directors appointment and cessation when occurring on the same date
+
+The minutes and resolution will be signed by all the appointed directors as well as the existing directors.
+
+The director appointment / cessation letters will remain separately
+
+If multiple appointments or cessations occur on different dates, the Minutes and Memorandum of resolution for Directors will be separate for each date
+
+**Combine Minutes and resolution documents for Issue of shares**
+
+Combine the Minutes and Memorandum of resolution for issue of shares when shares are issued to multiple shareholders on the same date
+
+If multiple shares are issued on different dates, the Minutes and Memorandum of resolution will be separate for each date
+
+**Add shortcuts to documents on Fund Profile preview page**
+
+Shortcuts to the ‘SMSF Deed of Variation’ and ‘SMSF Change of Trustee’ documents are available on the Fund profile preview page: 
+
+**Highlight Name check button in Company Set Up Interview Form**
+
+The "CHECK" button label now appears as "Check Name Availability"
+
+If the name is not available, the current popup shows more information.  
+
+** Setup Corporate key**
+
+The Corporate key received from ASIC in the Annual Statement will be updated into Company profile if it absent.
+
+
+**Updated the label of authorized person in Form 484A1**
+
+OLD LABEL: ‘Authorised person’
+
+NEW LABEL: ‘Authorised person to sign Occupiers Consent’
+
+**Share certificate available for each allotment**
+
+Added an option to download a share certificate for each allotment in the allotments table in the share registry for companies and Unit Trusts.
+
+**484 Extended form - LPR details**
+
+When adding an officer cessation and selecting ‘Deceased’ as the reason of the cessation, customers can add LPR details.
+
+For Share transfer, customers can add LPR details below the shareholder name.
+
+**Allow issue of shares to the same person** 
+
+All documents were updated to support the issue of shares to the same person if the issue dates are different
+
