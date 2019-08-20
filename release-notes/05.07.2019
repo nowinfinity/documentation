@@ -1,0 +1,39 @@
+#Release notes 05 July 2019: 
+
+**Add text when billing contact information is missing**
+
+Show warning message below the billing contact details when email and phone number is missing.
+
+**Update text when importing trusts and funds from external sources**
+
+Added additional text in the confirmation popup when importing trusts and funds from external sources stating that individual trust/fund profiles can’t be overridden.
+
+**Show what information is missing in incomplete Trust profiles**
+
+The health indicator in Trust Resister now shows the information missing – like the health indicator displayed in SuperComply
+
+**Removed reVIEW+approve option on the Trust Distribution resolution document**
+
+Customers can no longer request legal review Trust Distribution resolution documents.
+
+**ASIC status centre**
+
+A new feature to see the current state of the ASIC connection.
+
+The ASIC status centre is available via an icon next to the logout button and will be coloured green, yellow or red, depending on the status of the ASIC connection for the account.
+
+**Form 484E to Extended Share Transfer** 
+
+Updated the 484E to Extended Share Transfer form
+
+**’Adjusted average debt amount’ added into debt report graph**
+
+The Companies Debt graph will now show a new calculated value called ‘Adjusted average debt amount’. 
+
+This adjusted average debt is applied to normalize the spikes in average debt amounts for months where there were a lower number of company registrations.
+
+The ‘Adjusted average debt amount’ is calculated by dividing the current Debt of all active companies by the number of companies with annual statements due within last 2 calendar months.
+
+**The ‘Add Company to Xero/HQ’ button**
+
+Updated the “Add Company to Xero/HQ” to “Add Company to Xero” as companies can no longer be added to Xero HQ
