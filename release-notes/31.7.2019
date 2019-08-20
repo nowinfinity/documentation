@@ -1,0 +1,51 @@
+#Release notes 31 July 2019: 
+
+**PleaseSign**
+
+Documents sent for electronic signing can now be sent via a new e-sign provider, PleaseSign instead of DocuSign. 
+
+**reVIEWed+approved feature enabled for all accounts**
+
+All accounts can now request for documents to be sent for legal review and approval. 
+
+**2 Factor Authentication enabled for all accounts**
+
+All users must now setup 2 Factor Authentication to access the platform  
+
+**ASIC status centre**
+
+The ASIC status centre feature is now enabled for all accounts 
+
+**Account Kit integration** 
+
+Account Kit integration details have been added into the ‘Integrations’ section on Portal settings. 
+
+**Automatic forwarding of electronically signed documents** 
+
+A new feature was introduced to send all e-signed documents automatically to an email account set up as an external archive
+
+The feature can be enabled in the ASIC settings page. 
+
+**‘Reference number’ field**
+
+A new field called Reference Number was added on the last tab for all forms. 
+
+The value entered here will automatically be added to the Document Forwarding section on the Collaboration page.  
+
+The reference number can also be added to the ‘Forward document’ email notification template using a variable code ‘@DocumentRef’ 
+
+**3 individual shareholders** 
+
+Option to add 3 individuals as the shareholding type was added in the Issue of Shares forms. 
+
+**Converting Trust Types**
+
+The ability to convert trust types from Unit Trusts to Discretionary trusts (and vice versa) was added to Trust Register. 
+
+When converting from Unit trust to Discretionary trust, unitholders are converted into primary beneficiaries. 
+
+When converting from Discretionary trust to Unit trust, beneficiaries are converted to unitholders with 1 Ordinary Unit.
+ 
+**Company PINs for entities that have data synchronisation issues**
+
+The system will automatically add a Data Discrepancy PIN to companies that do not exist in external systems or when the company address is different in external systems.
