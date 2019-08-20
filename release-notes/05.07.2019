@@ -16,9 +16,9 @@ The health indicator in Trust Resister now shows the information missing – lik
 
 Customers can no longer request legal review Trust Distribution resolution documents.
 
-**ASIC status centre**
+**ASIC status centre (Beta)**
 
-A new feature to see the current state of the ASIC connection.
+The Beta version of a new feature to see the current state of the ASIC connection.
 
 The ASIC status centre is available via an icon next to the logout button and will be coloured green, yellow or red, depending on the status of the ASIC connection for the account.
 
