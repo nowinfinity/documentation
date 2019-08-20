@@ -26,7 +26,7 @@ The "CHECK" button label now appears as "Check Name Availability"
 
 If the name is not available, the current popup shows more information.  
 
-** Setup Corporate key**
+**Setup Corporate key** 
 
 The Corporate key received from ASIC in the Annual Statement will be updated into Company profile if it absent.
 
