@@ -1,0 +1,25 @@
+#Release notes 20 August 2019: 
+
+**PleaseSign**
+
+PleaseSign is now the default provider for all electronic signing emails when new customers register via the portal
+
+Bundle document signing is now available when sending document for electronic signing via PleaseSign
+
+**Dividend statement - Franking Rates**
+
+The Dividend Statement document now displays the franking rate depending on the question answered in the interview form. (i.e. 27,5% or 30%)
+
+**Estate Planning**
+
+The full version of Estate Planning is now available to all administrators on all subscription and PAYG accounts
+
+**Company Domains (Beta)**
+
+A beta version of the domain registration feature is available via the collaboration page when company registration documents are completed.
+
+**Parent account controls**
+
+A new feature allowing parent accounts to control certain child account settings
+
+The parent account controls can be applied to the following settings: Account level PINs, Annual Statement cover letter templates, email notification templates, SMS notification settings and Annual Statement settings
