@@ -1,0 +1,43 @@
+#Release notes 13 September 2019: 
+
+**2 Factor Authentication Reset**
+
+Enabled the ability for Google authentication users to reset their own 2FA authentication details. 
+
+Enabled administrators to reset any user’s 2FA authentication details via account settings
+
+**Annual Statement payment reminders**
+
+Updated the Annual Statement Payment Reminder process to always send reminders to the billing contact of the company. 
+
+When changing the payment reminder recipient at the time the Annual Statement is sent out, the billing contact of the company will also change. 
+
+If the payment reminder email notification fails for any reason, the ASIC contact will be notified of this 
+
+**Billing contact changes**
+
+When changing the company billing contact, the NowInfinity Platform will check if that individual is the billing contact for other entities as well. If the individual is also the billing contact for other entities, the platform will present the user with a popup where they will have the ability to choose which entities to update. 
+
+This feature is also available when updating the billing contact via the Annual Statement profile page. 
+
+**Shareholder details** 
+
+The shareholder details in the Company and Unit Trust profiles have been updated to allow additional details to be added to the shareholder. 
+
+PAID – the paid value of the selected shares
+
+UNPAID - the unpaid value of the selected shares
+
+BENEFICIAL STATUS – The details of the beneficial owner
+
+DATE OF ENTRY - The date the shareholder was first added
+
+**Class integration**
+
+Updated the authentication and integration processes used to push and pull information to/from Class.  
+
+**Electronic signing**
+
+A certificate of authenticity is available when documents are e-signed. 
+
+Customers can select up to 50 files to send for electronic signing via the Lodgements page.  
