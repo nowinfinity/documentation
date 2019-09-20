@@ -1,4 +1,4 @@
-# Release 03.02.2017
+# Release notes 03.02.2017
 - ‘Send a Copy of All Emails To’ field is added on the Portal settings page under SMTP settings. When an email in added in the field all the correspondence sent from SMTP will be duplicated on the inputted email. Copied emails won’t be displayed on the ‘Outgoing emails’ page.
 - Custom email templates for e-Signing option are moved to 'Docusign' section on the Portal settings page.
 - New ‘Burning’ tab is added on the Reminder page.  All the reminders where the ‘Send on’ date is tomorrow, today and 5 days before today will be shown in the ‘Burning’ tab.
