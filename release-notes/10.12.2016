@@ -1,4 +1,4 @@
-# Release notes 10.12.2016
+# Release notes 10 December 2016
 * Option to switch ON / Switch OFF signing before lodging the document to ASIC is removed from the last page of the ASIC documents. Documents now cannot be lodged straightaway after been generated.
 * Case editing is added for Shareholders on the Company profile. Now user can change casing in the Officers and Shareholders names
 * 'Include 362 form' option is removed from the last page of the Standard company form.
