@@ -1,2 +1,2 @@
-#Release notes 27.06.2018:
+#Release notes 27 June 2018:
 1.	**ASIC Concurrent Lodgements Disallowed** If you lodge two or more separate documents for the same company and do not utilise Bulk Lodge feature, the documents will be lodged one by one and every next will be awaiting for updated company data from ASIC prior to be lodged.
