@@ -1,4 +1,4 @@
-#Release notes 12.10.2017:
+#Release notes 12 October 2017:
 - Docusign: A ‘copy to’ field has been added for all ordinary and ASIC documents. It has also been added to the Docusign section on the Annual Statement profile page. What does this mean? It allows you to enter email addresses to send copies of signing notifications.
 For ASIC documents and Annual Statements if a company has an account manager, an ‘insert account manager email’ button will be available in the ‘copy to’ field. Once clicked, the account manager’s email will be automatically inserted.
 - Salutations for Docusign: A ‘preferred name’ field has been added in the Docusign section to give you the ability to use salutations in emails instead of the first name. By default the preferred name is filled with the first and last name but it can be changed to whatever you or your client would prefer. 
