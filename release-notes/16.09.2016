@@ -1,4 +1,4 @@
-# Release notes 16.09.2016
+# Release notes 16 September 2016
 - Option of signing the document before lodging to ASIC is added on the Form 361
 - Bundle creation of 361 forms became available on the Companies page. Checkboxes were added for each company. By ticking the checkboxes user can select the list of companies Form 361 has to be created for and go to options to proceed creation. Generated forms will be available on the Lodgements page and ticked with the check boxes.
 - Refreshing of the several companies became available on the Companies page. Check boxes are added for each company. By ticking the checkboxes user can select the list of companies to refresh and proceed refreshing.
