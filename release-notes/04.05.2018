@@ -1,4 +1,4 @@
-#Release notes 04.05.2018:
+#Release notes 04 May 2018:
 1.	**Setting up your cloud services account:** In portal settings you can now link your cloud services accounts such as drop box, one drive, box, google drive and share point to your NowInfinity portal so that you can copy all created documents into the cloud. Simply navigate to Menu > Portal settings > Cloud Services and CRM and select which file path you would like your documents to be directed to by entering a URL. Once setup, you will be able to copy to cloud on the collaboration page and your documents will be sent to your cloud storage.
 
 2.	**Setting up your CRM account:** In portal settings you can now link your CRM account if you use Salesforce or SugarCRM. Simply head to Menu > Portal Settings > Cloud Services and CRM > select which CRM account you would like and enter in your login details. This will then allow you to access stored client data when you are creating documents. 
