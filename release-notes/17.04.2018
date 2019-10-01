@@ -1,4 +1,4 @@
-#Release notes 17.04.2018:
+#Release notes 17 April 2018:
 1.	**Google Authenticator Enabled** Now you can use Google Authenticator for your 2FA setup. This means you can use any android or tablet and you do not need a mobile number. Simply download the 'Google Authenticator' app from the app store. Then, when you login to NowInfinity you will find a pop up appears with a bar code for you to scan. Scan using your new app and a 6 digit code will appear on your phone to enter into your login screen. If you have already setup your 2FA and would like to change it so that you are now using Google Authenticator simply head to Menu > Portal Settings > Authentication. In here you can select to 'Change 2FA method' and next time you login the pop up with your code will appear.
 
 2.	**Updates Documents from View Legal:**
