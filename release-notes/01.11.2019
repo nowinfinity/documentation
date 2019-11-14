@@ -1,0 +1,48 @@
+#Release notes 1 November 2019: 
+
+**Compare differences in Notification Centre**
+
+Enabled the ability for customers to view the differences received in the Notification Centre. 
+
+**Annual Statement payment reminders**
+
+When the Billing contact changes in the Company profile, the recipient for all pending reminders are changed respectively 
+
+Only the Billing contact can be recipient of the reminder
+
+Added the ability to edit the recipient of Annual Statement payment reminders via the Reminders page
+
+When the reminders were voided, the reminders are removed from the Reminders page
+
+Ability to select ‘Other person’ as a recipient of Annual statement package is added when sending Annual Statement documents.
+
+If ASIC contact doesn’t exist for Account, the Annual Statement payment reminder error email notification will be sent to Primary contact and to the first contact associated with the Account.
+
+**Custom DocuSign account set up**
+
+When setting up a custom DocuSign account, users will be reminded to notify the Nowinfinity Support team once the DocuSign account is enabled
+
+**Export Companies Data Issues**
+
+Disabled the feature as it was replaced by the Imports comparison report
+
+**Investment Strategy document**
+
+The ‘Investment strategy’ document under the SMSF Documentation suite has been updated
+
+The ‘Edit online’ feature is available under the generated link of the document on the Collaboration page for manual edits
+
+**ASIC Settings**
+
+Renamed to 'Product Settings' 
+
+The Product settings page was divided into sub-sections by product: Corporate Messenger / Trust Register
+
+**Issue and transfer share certificates**
+
+Issue and transfer share certificates have been updated to look and feel the same
+
+**Mobile phone format**
+
+The field formatting for mobile phones has been updated from (ххх)-ххх-хххх to (хххх)-ххх-ххх
+
