@@ -1,0 +1,77 @@
+#Release notes 21 November 2019: 
+
+**Completeness of trust profiles in Trust Register**
+
+If the Appointor is not available for the trust, the trust completeness calculation will consider the Appointor details as optional
+
+The trust profile will be 100% complete even if the Appointer details are not entered and all other information is present
+
+**Add custom unit class details in trusts**
+
+Ability to manually enter the class type (up to 9 characters), directly into the trust profile. 
+
+Example: Enter "REDM" for 'redeemable units' class
+
+**Trust Register export**
+
+Trust Register users can now export the following information for one or more trusts
+
+•	Trust Name
+
+•	Trust Type
+
+•	ABN
+
+•	Commencement Date
+
+•	Signing Contact
+
+•	Billing Contact
+
+•	Account Manager
+
+•	Trustee Name
+
+•	Vesting Date
+
+•	Date of Variation
+
+•	Jurisdiction
+
+•	Trust Address
+
+•	Account Manager
+
+•	Name of Unitholders
+
+•	Name of the Settlor
+
+•	Name of Appointor
+
+•	Name of Beneficiaries
+
+•	Settlement Sum
+
+**Charitable purpose only**
+
+The correct declaration now appears when selecting the ‘Charitable Purpose Only’ option as part of the registration of Standard Companies
+
+**Annual Statement cover letters**
+
+New dynamic codes have been created for the Annual Statement Cover letters:
+
+•	Office address
+
+•	Office phone number
+
+
+**Cover page for the constitution for Special Purpose Companies**
+
+The ACN formatting has been updated in the constitution for Special Purpose Companies documents
+
+
+**Alert for change of status from signed to Lodged**
+
+The button has been renamed from “Mark as Lodged” to “Externally Lodged”
+
+A popup appears to confirm that the document will not be lodged with ASIC via the NowInfinity Platform, and that the document must be lodged with ASIC manually. 
