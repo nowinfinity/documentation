@@ -1,0 +1,23 @@
+#Release notes 13 December 2019: 
+
+**Annual statement cover letter codes**
+
+The following codes are now available when creating annual statement cover letters:
+
+- %Account_ASIC_Contact% - prefills the ASIC contact name into the cover letter.
+
+- %Company_Name_sc% - prefills the company name into the cover letter. (Mixed case)
+
+- %Principal_Address_sc_SuburbState_uc% - prefills the principal address into the cover letter. (Mixed case for the street name and upper case for suburb and state)
+
+**Portal Settings**
+
+Added the ability for firms to enter and save a postal address agaists the account settings.
+
+**Share Register in Minutes and Resolution documents **
+
+The 'Share Register' of the company was added to the Minutes and Resolution documents before the 'Standard Transfer Form' page.
+
+**Form 6010**
+
+Page 2, the guide attached to form 6010 was removed.
