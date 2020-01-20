@@ -1,0 +1,29 @@
+#Release notes 17 January 2020: 
+
+**Authorised person to sign on behalf of corporate shareholders**
+
+A new field was added on the Company and Trust profiles, within the corporate shareholder / Unitholder sections respectively, where the name(s) of the person authorised to sign on behalf of the shareholders can be entered. 
+
+The name(s) entered on the profile will pre-fill into the interview form where you would enter the a name of the person to sign on behalf of the corporate shareholder / unitholder.
+
+**Email notification templates**
+
+The follwoing dynamic codes have been added to the email notification templates: 
+
+@AccountManager - adds the Account Manager contact name into the email
+@contactname – adds the name of the person who created the document into the email
+@DocumentType – shows what the document type is in the email
+@AccountName – Adds your firm’s name to the email
+
+By typing "@" in an email template will reveal a list of the codes available for you to use in the relevant template. 
+
+**Billing Contact**
+
+Additional validation was added to the Billing Contact Middle Name field. The Billing Contact Middle Name field remains optional however, when you enter a middle name, you are now required to add at lease 2 characters to the field.
+
+**Individuals** 
+
+The Individuals feature is now available within the NowInfinity platform, which allows you to see a 360-degree view of an individual in a single page. 
+
+It shows the personal details of individuals as well as their relationships to companies, as a director or shareholder for instance, and to trusts, as a trustee, or unitholder.
+
