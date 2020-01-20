@@ -10,12 +10,15 @@ The name(s) entered on the profile will pre-fill into the interview form where y
 
 The follwoing dynamic codes have been added to the email notification templates: 
 
-@AccountManager - adds the Account Manager contact name into the email
-@contactname – adds the name of the person who created the document into the email
-@DocumentType – shows what the document type is in the email
-@AccountName – Adds your firm’s name to the email
+•	@AccountManager - adds the Account Manager contact name into the email
 
-By typing "@" in an email template will reveal a list of the codes available for you to use in the relevant template. 
+•	@contactname – adds the name of the person who created the document into the email
+
+•	@DocumentType – shows what the document type is in the email
+
+•	@AccountName – Adds your firm’s name to the email
+
+•	By typing "@" in an email template will reveal a list of the codes available for you to use in the relevant template. 
 
 **Billing Contact**
 
