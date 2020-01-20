@@ -8,7 +8,7 @@ The name(s) entered on the profile will pre-fill into the interview form where y
 
 **Email notification templates**
 
-The follwoing dynamic codes have been added to the email notification templates: 
+The following dynamic codes have been added to the email notification templates: 
 
 •	@AccountManager - adds the Account Manager contact name into the email
 
