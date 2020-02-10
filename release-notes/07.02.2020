@@ -1,0 +1,40 @@
+#Release notes 7 February 2020: 
+
+**Custom DocuSign**
+
+The process to connect your own custom DocuSign account was changed. 
+
+The new instructions have been added to the DocuSign page within the Portal Settings section in the patform. 
+
+**Annual Statement Cover Letters**
+
+All Annual Statement Cover Letter templates are avaialble for selection when refreshing company Ananual Statements.
+
+**Individuals** 
+
+The following changes were made to the Individuals product: 
+
+•	Updated the "Contacts" column name in the Individuals list view to “Contact Details”.
+
+•	Updated the icon used for the Individuals diagram button.
+
+•	Changed the label of the "Registered Address” field in the Individual profile to “Address”.
+
+•	Removed the "Gender" field in the Individual Profile.
+
+•	Added a new column into the Companies and Trust tables called “Contact Details” to show the email address and phone number of the individual for each company/trust
+ 
+•	Added the graph icon to the Individuals profile view.
+
+•	Added an additional format for the diagram image downloaded option (.JPG now available).
+
+•	Updated the color of the primary individual to purple so that the primary individual is highlighted in the diagram. 
+
+•	Added level ZERO to the graph level which shows only the companies and trusts linked to the individual.
+
+•	Added the ability to add hidden nodes back into the diagram.
+
+**E-Signing**
+
+Added the ability to open and view signed documents from the e-sign email.
+
