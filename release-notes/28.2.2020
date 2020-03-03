@@ -24,7 +24,7 @@ Administrators can also unlock user accounts via the User Management page in Por
 
 If your account is configured to use the default info@nowinfinity.com.au sender address for outbound email notifications (for example e-signing emails, email reminders and annual statements), you’ll be presented with an alert requiring confirmation when sending out emails.  
 
-You’ll need to accept the alert to be able to send emails to end-clients via the NowInfinity . 
+You’ll need to accept the alert to be able to send emails to end-clients via the NowInfinity Platform. 
 
 The alert can be removed by customising the address used for outbound emails.
 
