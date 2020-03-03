@@ -1,0 +1,65 @@
+#Release notes 28 February 2020: 
+
+**Health Center**
+
+The Health Center is a new feature available under the Productivity section in the menu. 
+
+The purpose of the Health Center is to show which aspects of your account are complete and which areas need attention, and to help you better understand the capabilities of the NowInfinity platform.  
+
+It does this by presenting a summary of the completeness of the settings applicable to your account in the NowInfinity platform.
+
+**FYI Docs**
+
+FYI Docs is a new generation document management platform which enables the intelligent capture, creation and auto-processing of emails, documents, tasks and client interactions in a disciplined and searchable platform.
+
+More information about FYI Docs and how to contact them have been added to the Integrations page within the Portal Settings page.
+
+**Unlocking user accounts**
+
+Users with locked accounts are now able to unlock their account, via the login page.
+
+Administrators can also unlock user accounts via the User Management page in Portal settings.
+
+**Sending emails via info@nowinfinity.com.au**
+
+If your account is configured to use the default info@nowinfinity.com.au sender address for outbound email notifications (for example e-signing emails, email reminders and annual statements), you’ll be presented with an alert requiring confirmation when sending out emails.  
+
+You’ll need to accept the alert to be able to send emails to end-clients via the NowInfinity . 
+
+The alert can be removed by customising the address used for outbound emails.
+
+**ASIC lodgement deadline**
+
+The lodgement deadline for ASIC forms has been updated to calculate the date as 28 days from the day after the effective date of the change. 
+
+**Completed Documents**
+
+Form 362 and Form 484 (Change of address) documents no longer appear in the Completed Documents page. 
+
+These documents are now available from the Lodgements page.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
